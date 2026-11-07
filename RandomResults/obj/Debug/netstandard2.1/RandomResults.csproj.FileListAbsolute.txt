@@ -1,0 +1,9 @@
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\bin\Debug\netstandard2.1\RandomResults.deps.json
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\bin\Debug\netstandard2.1\RandomResults.dll
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\bin\Debug\netstandard2.1\RandomResults.pdb
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\obj\Debug\netstandard2.1\RandomResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\obj\Debug\netstandard2.1\RandomResults.AssemblyInfoInputs.cache
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\obj\Debug\netstandard2.1\RandomResults.AssemblyInfo.cs
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\obj\Debug\netstandard2.1\RandomResults.csproj.CoreCompileInputs.cache
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\obj\Debug\netstandard2.1\RandomResults.dll
+C:\Users\glenn\Documents\Unity Projects\RandomResults\RandomResults\obj\Debug\netstandard2.1\RandomResults.pdb
